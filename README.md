@@ -1,19 +1,10 @@
 # Picture Of The Day
 
-![Github Actions Status](https://github.com/my_name/myextension/workflows/Build/badge.svg)
-
 Shows a picture in jupyter lab.
-
 
 ## Requirements
 
 * JupyterLab >= 1.0
-
-## Install
-
-```bash
-jupyter labextension install Picture Of The Day
-```
 
 ## Contributing
 
@@ -45,11 +36,5 @@ You can watch the source directory and run JupyterLab in watch mode to watch for
 jlpm watch
 # Run jupyterlab in watch mode in one terminal tab
 jupyter lab --watch
-```
-
-### Uninstall
-
-```bash
-jupyter labextension uninstall Picture Of The Day
 ```
 

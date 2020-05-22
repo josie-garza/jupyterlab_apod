@@ -1,5 +1,5 @@
 {
-  "name": "pictureoftheday",
+  "name": "jupyterlab_apod",
   "version": "0.1.0",
   "description": "Shows a picture in jupyter lab.",
   "keywords": [
