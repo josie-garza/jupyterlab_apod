@@ -20,7 +20,7 @@ function activate(
   palette: ICommandPalette,
   restorer: ILayoutRestorer
 ) {
-  console.log("JupyterLab extension is activated! New!");
+  console.log("JupyterLab extension is activated! Woah!");
 
   // Declare a widget variable
   let widget: MainAreaWidget<APODWidget>;
